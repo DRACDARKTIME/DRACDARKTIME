@@ -12,3 +12,6 @@
 - **Others:** Git,LaTeX 📜
 ## 📊 GitHub Stats
 ![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=DRACDARKTIME&show_icons=true&theme=radical)
+## 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRACDARKTIME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
