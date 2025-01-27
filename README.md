@@ -1,5 +1,10 @@
 ## 👋 Hi there, I am Ramón :))
 🎓 Aspiring Data Scientist | 💻 Physics Background | 🚀 Lifelong Learner  
+## 🚄 Fun GIF
+![Trains GIF](https://raw.githubusercontent.com/thomas10-10/foo-Wallpaper-Feh-Gif/master/gif/trains.gif)
+
+GIF from [thomas10-10/foo-Wallpaper-Feh-Gif](https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif)
+
 ## 🌟 About Me
 - 🔭 I’m currently learning **Data Science** and working on Python projects.
 - 📚 I have a background in **Physics**, which gives me a unique perspective on problem-solving.
