@@ -15,4 +15,4 @@
 - [Email](mailto:your-email@example.com)
 - [Portfolio (opcional)](https://your-portfolio.com)
 ## 📊 GitHub Stats
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=DRACDARKTIME&show_icons=true&theme=radical)
