@@ -6,13 +6,9 @@
 - 💡 I’m passionate about exploring data, building machine learning models, and creating impactful projects.
 - 🌱 Currently diving deeper into **Machine Learning** and **Big Data**.
 ## 🛠️ Tech Stack
-- **Languages:** Python 🐍, SQL 🗄️, R 📊
-- **Tools:** Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook  
+- **Languages:** Python 🐍, SQL 🗄️
+- **Tools:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, Tensorflow  
 - **OS:** Arch Linux 🐧, Windows 🪟  
-- **Others:** Git, Docker 🐳, LaTeX 📜
-## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jose-garcia)
-- [Email](mailto:your-email@example.com)
-- [Portfolio (opcional)](https://your-portfolio.com)
+- **Others:** Git,LaTeX 📜
 ## 📊 GitHub Stats
 ![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=DRACDARKTIME&show_icons=true&theme=radical)
