@@ -1,6 +1,5 @@
 ## 👋 Hi there, I am Ramón :))
 🎓 Aspiring Data Scientist | 💻 Physics Background | 🚀 Lifelong Learner  
-## 🚄 Fun GIF
 ![Trains GIF](https://raw.githubusercontent.com/thomas10-10/foo-Wallpaper-Feh-Gif/master/gif/trains.gif)
 
 GIF from [thomas10-10/foo-Wallpaper-Feh-Gif](https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif)
