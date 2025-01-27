@@ -11,7 +11,14 @@
 - **OS:** Arch Linux 🐧, Windows 🪟  
 - **Others:** Git,LaTeX 📜
 ## 📊 GitHub Stats
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=DRACDARKTIME&show_icons=true&theme=radical)
-## 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRACDARKTIME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-around;">
 
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=DRACDARKTIME&show_icons=true&theme=radical" />
+  </div>
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRACDARKTIME&layout=compact&theme=radical" />
+  </div>
+
+</div>
