@@ -1,7 +1,5 @@
 ## 👋 Hi there, I am Ramón :))
 🎓 Aspiring Data Scientist | 💻 Physics Background | 🚀 Lifelong Learner  
-<!--
-**DRACDARKTIME/DRACDARKTIME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🌟 About Me
 - 🔭 I’m currently learning **Data Science** and working on Python projects.
 - 📚 I have a background in **Physics**, which gives me a unique perspective on problem-solving.
